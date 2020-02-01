@@ -1,0 +1,11 @@
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter10\UserAuthenticationAndAuthorization\UserAuthenticationAndAuthorization\bin\Debug\netcoreapp3.1\UserAuthenticationAndAuthorization.exe
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter10\UserAuthenticationAndAuthorization\UserAuthenticationAndAuthorization\bin\Debug\netcoreapp3.1\UserAuthenticationAndAuthorization.deps.json
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter10\UserAuthenticationAndAuthorization\UserAuthenticationAndAuthorization\bin\Debug\netcoreapp3.1\UserAuthenticationAndAuthorization.runtimeconfig.json
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter10\UserAuthenticationAndAuthorization\UserAuthenticationAndAuthorization\bin\Debug\netcoreapp3.1\UserAuthenticationAndAuthorization.runtimeconfig.dev.json
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter10\UserAuthenticationAndAuthorization\UserAuthenticationAndAuthorization\bin\Debug\netcoreapp3.1\UserAuthenticationAndAuthorization.dll
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter10\UserAuthenticationAndAuthorization\UserAuthenticationAndAuthorization\bin\Debug\netcoreapp3.1\UserAuthenticationAndAuthorization.pdb
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter10\UserAuthenticationAndAuthorization\UserAuthenticationAndAuthorization\obj\Debug\netcoreapp3.1\UserAuthenticationAndAuthorization.csprojAssemblyReference.cache
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter10\UserAuthenticationAndAuthorization\UserAuthenticationAndAuthorization\obj\Debug\netcoreapp3.1\UserAuthenticationAndAuthorization.AssemblyInfoInputs.cache
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter10\UserAuthenticationAndAuthorization\UserAuthenticationAndAuthorization\obj\Debug\netcoreapp3.1\UserAuthenticationAndAuthorization.AssemblyInfo.cs
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter10\UserAuthenticationAndAuthorization\UserAuthenticationAndAuthorization\obj\Debug\netcoreapp3.1\UserAuthenticationAndAuthorization.dll
+C:\Users\Alekhandr0\Desktop\dot-net-core\chapter10\UserAuthenticationAndAuthorization\UserAuthenticationAndAuthorization\obj\Debug\netcoreapp3.1\UserAuthenticationAndAuthorization.pdb
